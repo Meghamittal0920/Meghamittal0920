@@ -49,11 +49,8 @@ I'm a passionate frontend developer who loves building clean, responsive, and us
 
 ### 📫 Let's Connect
 <p>
-  <a href="mailto:megha.builds@gmail.com">
+  <a href="mailto:meghamittal563@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
