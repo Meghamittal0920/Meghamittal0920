@@ -36,14 +36,7 @@ I'm a passionate frontend developer who loves building clean, responsive, and us
 - 🏢 Handle SAP-integrated business workflows
 - 🔧 Debug, optimize, and improve existing web applications
 
----
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=megha&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megha&layout=compact&theme=radical" width="48%" />
-</p>
 
 ---
 
