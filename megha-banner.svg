@@ -49,15 +49,15 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <filter id="glowBig"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="15" cy="15" r=".6" fill="rgba(192,132,252,.10)"/></pattern>
 
-<clipPath id="cPrompt"><rect x="48" y="52" width="0" height="24"><animate attributeName="width" from="0" to="480" dur="1s" begin=".3s" fill="freeze"/></rect></clipPath>
-<clipPath id="cHi"><rect x="48" y="92" width="0" height="30"><animate attributeName="width" from="0" to="200" dur=".5s" begin="1.2s" fill="freeze"/></rect></clipPath>
-<clipPath id="q1"><rect x="76" y="276" width="0" height="26"><animate attributeName="width" from="0" to="300" dur=".7s" begin="3.4s" fill="freeze"/></rect></clipPath>
-<clipPath id="q2"><rect x="76" y="302" width="0" height="26"><animate attributeName="width" from="0" to="300" dur=".6s" begin="4.2s" fill="freeze"/></rect></clipPath>
+<clipPath id="cPrompt"><rect x="48" y="48" width="0" height="32"><animate attributeName="width" from="0" to="480" dur="1s" begin=".3s" fill="freeze"/></rect></clipPath>
+<clipPath id="cHi"><rect x="48" y="86" width="0" height="42"><animate attributeName="width" from="0" to="200" dur=".5s" begin="1.2s" fill="freeze"/></rect></clipPath>
+<clipPath id="q1"><rect x="76" y="258" width="0" height="46"><animate attributeName="width" from="0" to="300" dur=".7s" begin="3.4s" fill="freeze"/></rect></clipPath>
+<clipPath id="q2"><rect x="76" y="284" width="0" height="46"><animate attributeName="width" from="0" to="300" dur=".6s" begin="4.2s" fill="freeze"/></rect></clipPath>
 <!-- Cycling roles: 4 roles, 24s -->
-<clipPath id="r1"><rect x="48" y="222" width="0" height="26"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;.01;.07;.2;.24;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
-<clipPath id="r2"><rect x="48" y="222" width="0" height="26"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;.26;.32;.45;.49;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
-<clipPath id="r3"><rect x="48" y="222" width="0" height="26"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;.51;.57;.7;.74;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
-<clipPath id="r4"><rect x="48" y="222" width="0" height="26"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;.76;.82;.95;.99;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+<clipPath id="r1"><rect x="48" y="216" width="0" height="36"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;.01;.07;.2;.24;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+<clipPath id="r2"><rect x="48" y="216" width="0" height="36"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;.26;.32;.45;.49;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+<clipPath id="r3"><rect x="48" y="216" width="0" height="36"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;.51;.57;.7;.74;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+<clipPath id="r4"><rect x="48" y="216" width="0" height="36"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;.76;.82;.95;.99;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
 </defs>
 
 <!-- ================= BACKGROUND ================= -->

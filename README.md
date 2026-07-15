@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✨ Animated Banner ✨ -->
-<img src="./megha-banner.svg" alt="Megha Mittal — Frontend Developer" width="100%"/>
+<img src="./megha-banner.svg?v=2" alt="Megha Mittal — Frontend Developer" width="100%"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./megha-lanyard.svg" alt="Megha Mittal ID badge" width="330"/>
+<img src="./megha-lanyard.svg?v=2" alt="Megha Mittal ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
@@ -41,8 +41,8 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./megha-stats.svg" alt="GitHub Stats" height="185"/>
-<img src="./megha-langs.svg" alt="Top Languages" height="185"/>
+<img src="./megha-stats.svg?v=2" alt="GitHub Stats" height="185"/>
+<img src="./megha-langs.svg?v=2" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -56,7 +56,7 @@
 <br/><br/>
 
 <!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./megha-trophies.svg" alt="Trophies" width="95%"/>
+<img src="./megha-trophies.svg?v=2" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
