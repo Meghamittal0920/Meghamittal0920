@@ -41,8 +41,8 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="https://github-readme-stats.vercel.app/api?username=Meghamittal0920&show_icons=true&theme=radical&hide_border=true&bg_color=170e28&title_color=ff7eb6&icon_color=e879f9&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="./megha-langs.svg" alt="Top Languages" height="165"/>
+<img src="./megha-stats.svg" alt="GitHub Stats" height="185"/>
+<img src="./megha-langs.svg" alt="Top Languages" height="185"/>
 
 <br/><br/>
 

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 232" width="500" height="232" role="img" aria-label="Megha Mittal's GitHub stats">
+<defs><style><![CDATA[
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes fadeSlide{from{opacity:0;transform:translateX(-14px)}to{opacity:1;transform:translateX(0)}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes rankPulse{0%,100%{opacity:.85}50%{opacity:1}}
+@keyframes shineX{0%{transform:translateX(-160px) skewX(-15deg)}60%,100%{transform:translateX(560px) skewX(-15deg)}}
+.row{opacity:0;animation:fadeSlide .5s ease forwards}
+.rk{animation:rankPulse 2.4s ease-in-out infinite}
+.sh{animation:shineX 4.5s ease-in-out 2.4s infinite}
+]]></style>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%"><animate attributeName="stop-color" values="#ff7eb6;#c084fc;#ff7eb6" dur="6s" repeatCount="indefinite"/></stop>
+  <stop offset="100%"><animate attributeName="stop-color" values="#c084fc;#ff7eb6;#c084fc" dur="6s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<linearGradient id="ringg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#ff7eb6"/><stop offset="100%" stop-color="#8b5cf6"/>
+</linearGradient>
+<linearGradient id="shg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="50%" stop-color="#fff" stop-opacity=".07"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="cc"><rect x="1" y="1" width="498" height="230" rx="14"/></clipPath>
+<filter id="g"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="1" y="1" width="498" height="230" rx="14" fill="#170e28" stroke="url(#tg)" stroke-width="1.5"/>
+<text x="24" y="38" font-size="16" font-weight="bold" fill="url(#tg)">🌸 Megha Mittal's GitHub Stats</text>
+
+  <g class="row" style="animation-delay:0.50s">
+    <text x="24" y="74" font-size="14">⭐</text>
+    <text x="52" y="74" font-size="13.5" fill="#c9d1d9">Total Stars Earned:</text>
+    <text x="316" y="74" text-anchor="end" font-size="14" font-weight="bold" fill="#fde047">50+</text>
+  </g>
+  <g class="row" style="animation-delay:0.72s">
+    <text x="24" y="105" font-size="14">💻</text>
+    <text x="52" y="105" font-size="13.5" fill="#c9d1d9">Total Commits:</text>
+    <text x="316" y="105" text-anchor="end" font-size="14" font-weight="bold" fill="#7dd3fc">500+</text>
+  </g>
+  <g class="row" style="animation-delay:0.94s">
+    <text x="24" y="136" font-size="14">📦</text>
+    <text x="52" y="136" font-size="13.5" fill="#c9d1d9">Public Repos:</text>
+    <text x="316" y="136" text-anchor="end" font-size="14" font-weight="bold" fill="#4ade80">8+</text>
+  </g>
+  <g class="row" style="animation-delay:1.16s">
+    <text x="24" y="167" font-size="14">👥</text>
+    <text x="52" y="167" font-size="13.5" fill="#c9d1d9">Followers:</text>
+    <text x="316" y="167" text-anchor="end" font-size="14" font-weight="bold" fill="#c084fc">25+</text>
+  </g>
+  <g class="row" style="animation-delay:1.38s">
+    <text x="24" y="198" font-size="14">🍥</text>
+    <text x="52" y="198" font-size="13.5" fill="#c9d1d9">Anime Sites Built:</text>
+    <text x="316" y="198" text-anchor="end" font-size="14" font-weight="bold" fill="#ff7eb6">6</text>
+  </g>
+
+<!-- Rank ring -->
+<g transform="translate(408,138)">
+  <circle r="52" fill="none" stroke="#241740" stroke-width="9"/>
+  <circle r="52" fill="none" stroke="url(#ringg)" stroke-width="9" stroke-linecap="round"
+    stroke-dasharray="254.8 326.7" stroke-dashoffset="254.8" transform="rotate(-90)">
+    <animate attributeName="stroke-dashoffset" from="254.8" to="0" dur="1.6s" begin=".6s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+  </circle>
+  <text class="rk" y="14" text-anchor="middle" font-size="40" font-weight="bold" fill="#ff7eb6" filter="url(#g)">A</text>
+  <text y="76" text-anchor="middle" font-size="10.5" fill="#8b949e" opacity="0" style="animation:fadeIn .5s ease 1.8s forwards">RANK</text>
+</g>
+
+<g clip-path="url(#cc)"><rect class="sh" x="0" y="0" width="120" height="232" fill="url(#shg)"/></g>
+</svg>
