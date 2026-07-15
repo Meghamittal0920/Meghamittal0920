@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✨ Animated Banner ✨ -->
-<img src="./megha-banner.svg?v=2" alt="Megha Mittal — Frontend Developer" width="100%"/>
+<img src="./megha-banner.svg?v=6" alt="Megha Mittal — Frontend Developer" width="100%"/>
 
 </div>
 
