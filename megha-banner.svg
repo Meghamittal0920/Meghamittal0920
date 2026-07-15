@@ -51,8 +51,8 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 
 <clipPath id="cPrompt"><rect x="48" y="52" width="0" height="24"><animate attributeName="width" from="0" to="480" dur="1s" begin=".3s" fill="freeze"/></rect></clipPath>
 <clipPath id="cHi"><rect x="48" y="92" width="0" height="30"><animate attributeName="width" from="0" to="200" dur=".5s" begin="1.2s" fill="freeze"/></rect></clipPath>
-<clipPath id="q1"><rect x="76" y="286" width="0" height="22"><animate attributeName="width" from="0" to="300" dur=".7s" begin="3.4s" fill="freeze"/></rect></clipPath>
-<clipPath id="q2"><rect x="76" y="312" width="0" height="22"><animate attributeName="width" from="0" to="300" dur=".6s" begin="4.2s" fill="freeze"/></rect></clipPath>
+<clipPath id="q1"><rect x="76" y="276" width="0" height="26"><animate attributeName="width" from="0" to="300" dur=".7s" begin="3.4s" fill="freeze"/></rect></clipPath>
+<clipPath id="q2"><rect x="76" y="302" width="0" height="26"><animate attributeName="width" from="0" to="300" dur=".6s" begin="4.2s" fill="freeze"/></rect></clipPath>
 <!-- Cycling roles: 4 roles, 24s -->
 <clipPath id="r1"><rect x="48" y="222" width="0" height="26"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;.01;.07;.2;.24;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
 <clipPath id="r2"><rect x="48" y="222" width="0" height="26"><animate attributeName="width" values="0;0;300;300;0;0" keyTimes="0;.26;.32;.45;.49;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
