@@ -42,7 +42,7 @@
 ### 📊 GitHub Stats & Graphs
 
 <img src="https://github-readme-stats.vercel.app/api?username=Meghamittal0920&show_icons=true&theme=radical&hide_border=true&bg_color=170e28&title_color=ff7eb6&icon_color=e879f9&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghamittal0920&layout=compact&theme=radical&hide_border=true&bg_color=170e28&title_color=ff7eb6&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<img src="./megha-langs.svg" alt="Top Languages" height="165"/>
 
 <br/><br/>
 
@@ -55,8 +55,8 @@
 
 <br/><br/>
 
-<!-- 🏆 Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Meghamittal0920&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Trophies"/>
+<!-- 🏆 Trophies (local animated SVG — always loads) -->
+<img src="./megha-trophies.svg" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
