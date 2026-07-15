@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1092 168" width="1092" height="168" role="img" aria-label="GitHub trophies">
+<defs><style><![CDATA[
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes popCell{0%{opacity:0;transform:translateY(16px) scale(.85)}70%{opacity:1;transform:translateY(-3px) scale(1.03)}100%{opacity:1;transform:translateY(0) scale(1)}}
+@keyframes rankGlow{0%,100%{opacity:.75}50%{opacity:1}}
+@keyframes shineX2{0%{transform:translateX(-200px) skewX(-15deg)}60%,100%{transform:translateX(1172px) skewX(-15deg)}}
+.cell{opacity:0;animation:popCell .55s cubic-bezier(.2,.8,.3,1.2) forwards;transform-box:fill-box;transform-origin:center}
+.rk{animation:rankGlow 2.2s ease-in-out infinite}
+.sh2{animation:shineX2 5s ease-in-out 2s infinite}
+]]></style>
+<linearGradient id="shg2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="50%" stop-color="#fff" stop-opacity=".07"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="tc"><rect x="0" y="0" width="1092" height="168" rx="14"/></clipPath>
+</defs>
+
+  <g class="cell" style="animation-delay:0.30s">
+    <rect x="12" y="12" width="168" height="144" rx="14" fill="#170e28" stroke="#ff7eb6" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="96.0" y="52" text-anchor="middle" font-size="30">🍥</text>
+    <text class="rk" x="164" y="40" text-anchor="end" font-size="24" font-weight="bold" fill="#ff7eb6" style="animation-delay:0.70s">SSS</text>
+    <text x="96.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">Otaku Dev</text>
+    <text x="96.0" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">Anime Sites x6</text>
+    <rect x="30" y="124" width="132" height="5" rx="2.5" fill="#241740"/>
+    <rect x="30" y="124" width="0" height="5" rx="2.5" fill="#ff7eb6">
+      <animate attributeName="width" from="0" to="132" dur="1s" begin="0.60s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
+  <g class="cell" style="animation-delay:0.48s">
+    <rect x="192" y="12" width="168" height="144" rx="14" fill="#170e28" stroke="#fde047" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="276.0" y="52" text-anchor="middle" font-size="30">🌟</text>
+    <text class="rk" x="344" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#fde047" style="animation-delay:0.88s">S</text>
+    <text x="276.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">Starstruck</text>
+    <text x="276.0" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">GitHub Badge</text>
+    <rect x="210" y="124" width="132" height="5" rx="2.5" fill="#241740"/>
+    <rect x="210" y="124" width="0" height="5" rx="2.5" fill="#fde047">
+      <animate attributeName="width" from="0" to="132" dur="1s" begin="0.78s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
+  <g class="cell" style="animation-delay:0.66s">
+    <rect x="372" y="12" width="168" height="144" rx="14" fill="#170e28" stroke="#e879f9" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="456.0" y="52" text-anchor="middle" font-size="30">⭐</text>
+    <text class="rk" x="524" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#e879f9" style="animation-delay:1.06s">A</text>
+    <text x="456.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">Stargazer</text>
+    <text x="456.0" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">Stars 50+</text>
+    <rect x="390" y="124" width="132" height="5" rx="2.5" fill="#241740"/>
+    <rect x="390" y="124" width="0" height="5" rx="2.5" fill="#e879f9">
+      <animate attributeName="width" from="0" to="132" dur="1s" begin="0.96s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
+  <g class="cell" style="animation-delay:0.84s">
+    <rect x="552" y="12" width="168" height="144" rx="14" fill="#170e28" stroke="#c084fc" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="636.0" y="52" text-anchor="middle" font-size="30">💜</text>
+    <text class="rk" x="704" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#c084fc" style="animation-delay:1.24s">A</text>
+    <text x="636.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">Rising Star</text>
+    <text x="636.0" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">Followers 25+</text>
+    <rect x="570" y="124" width="132" height="5" rx="2.5" fill="#241740"/>
+    <rect x="570" y="124" width="0" height="5" rx="2.5" fill="#c084fc">
+      <animate attributeName="width" from="0" to="132" dur="1s" begin="1.14s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
+  <g class="cell" style="animation-delay:1.02s">
+    <rect x="732" y="12" width="168" height="144" rx="14" fill="#170e28" stroke="#7dd3fc" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="816.0" y="52" text-anchor="middle" font-size="30">💻</text>
+    <text class="rk" x="884" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#7dd3fc" style="animation-delay:1.42s">A</text>
+    <text x="816.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">Committer</text>
+    <text x="816.0" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">Commits 500+</text>
+    <rect x="750" y="124" width="132" height="5" rx="2.5" fill="#241740"/>
+    <rect x="750" y="124" width="0" height="5" rx="2.5" fill="#7dd3fc">
+      <animate attributeName="width" from="0" to="132" dur="1s" begin="1.32s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
+  <g class="cell" style="animation-delay:1.20s">
+    <rect x="912" y="12" width="168" height="144" rx="14" fill="#170e28" stroke="#4ade80" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="996.0" y="52" text-anchor="middle" font-size="30">📦</text>
+    <text class="rk" x="1064" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#4ade80" style="animation-delay:1.60s">B</text>
+    <text x="996.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">Creator</text>
+    <text x="996.0" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">Repos 8+</text>
+    <rect x="930" y="124" width="132" height="5" rx="2.5" fill="#241740"/>
+    <rect x="930" y="124" width="0" height="5" rx="2.5" fill="#4ade80">
+      <animate attributeName="width" from="0" to="132" dur="1s" begin="1.50s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
+<g clip-path="url(#tc)"><rect class="sh2" x="0" y="0" width="140" height="168" fill="url(#shg2)"/></g>
+</svg>
