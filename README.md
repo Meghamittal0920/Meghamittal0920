@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- ✨ Animated Banner ✨ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./megha-banner.svg?v=7">
