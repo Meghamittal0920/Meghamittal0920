@@ -1,4 +1,4 @@
-name: 3D contribution city 🌃
+name: 3D contribution village 🌃
 
 on:
   schedule:
@@ -25,6 +25,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated 3d contribution city"; then
+          if git commit -m "generated 3d contribution village"; then
             git push
           fi
